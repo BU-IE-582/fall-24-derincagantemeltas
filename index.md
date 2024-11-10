@@ -6,7 +6,7 @@
 
 **What Did We do in HW1 Assignment?**
 
-In data analysis, we may be have to work in data matrixes which have high amount of features (columns). This, due to the **Curse of Dimensionality** making it very hard for us to understand the variances/covariances in data series with a fixed number of instances (datas). That is the reason why, PCA Analysis should be done to find the best directions in space which covers the highest ratios of variances. This will be decreasing the dimensions (features) and will let us to interpret the data set in a much better way. This HW1 is a application for this aim. As we have seen on our previous courses.
+In data analysis, we often work with data matrices that contain a large number of features (columns). This can lead to challenges associated with the Curse of Dimensionality, making it difficult to interpret the variance and covariance structures within a dataset with a limited number of observations. To address this, PCA (Principal Component Analysis) is used to identify the principal directions in the feature space that capture the greatest variance. By reducing the dimensionality of the dataset, PCA helps us interpret the data more effectively. This Homework 1 assignment is an application of this approach, as we have previously studied in our courses.
 
 **DISCLAIMER**
 
