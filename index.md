@@ -5,4 +5,4 @@ These all works are cannot be copied without the knowledge of 2022702138 DERIN C
 
 Thank you!
 
-![Photo](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/photo.jpg)
+[My LinkedIn Profile](https://www.linkedin.com/in/derintemeltas/)
