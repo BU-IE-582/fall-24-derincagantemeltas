@@ -3,6 +3,7 @@
 - **My HW1 Work as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/code_updated.ipynb)
 - **My HW1 Work as HTML File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/report_updated.html)
 - **My HW1 Work as PDF Report**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/IE582_HOMEWORK1_DERINCAGANTEMELTAS.pdf)
+- **My Full HW1 Directory in my Student Repository**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/tree/main/HW1)
 
 **What did we do in HW1 Assignment?**
 
