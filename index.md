@@ -1,3 +1,9 @@
+**IE 582 HOMEWORK 2 ASSIGNMENT**
+
+- **My HW2 Work as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/code_updated.ipynb)
+- **My HW2 Work as HTML File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/report_updated.html)
+- **My Full HW2 Directory in my Student Repository**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/tree/main/HW1)
+
 **IE 582 HOMEWORK 1 ASSIGNMENT**
 
 - **My HW1 Work as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW1/code_updated.ipynb)
