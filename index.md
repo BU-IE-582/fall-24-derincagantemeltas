@@ -3,7 +3,7 @@
 - **My HW2 Work as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW2/hw2code_DT.ipynb)
 - **My HW2 Work as HTML File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW2/hw2html_DT.html)
 - **Generated Decision Tree with The Code**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW2/generated_decision_tree_DT.png)
-- **My Full HW2 Directory in my Student Repository**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/tree/main)
+- **My Full HW2 Directory in my Student Repository**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/tree/main/HW2)
 
 **IE 582 HOMEWORK 1 ASSIGNMENT**
 
