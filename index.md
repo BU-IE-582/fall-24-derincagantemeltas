@@ -1,3 +1,12 @@
+**IE 582 PROJECT ASSIGNMENT**
+
+**This project is a group work of Zelina Genel - 2023802015 and Derin Çağan Temeltaş - 2022702138.**
+
+- **Our Project Report as .html File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582PROJECT_DT_ZG.html)
+- **Our Project Report as .pdf File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582PROJECT_DT_ZG.pdf)
+- **Our Project Code as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/Project_Code_DT_ZG.ipynb)
+- **Our Project Code as .html File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/Project_Code_DT_ZG.html)
+
 **IE 582 HOMEWORK 2 ASSIGNMENT**
 
 - **My HW2 Work as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/HW2/hw2code_DT.ipynb)
