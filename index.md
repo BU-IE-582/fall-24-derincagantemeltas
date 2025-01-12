@@ -3,9 +3,10 @@
 **This project is a group work of Zelina Genel - 2023802015 and Derin Çağan Temeltaş - 2022702138.**
 
 - **Our Project Report as .html File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582_Project_Report_DerinTemeltas_ZelinaGenel.html)
-- **Our Project Report as .pdf File**: [Click here to view]https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582_Project_Report_DerinTemeltas_ZelinaGenel.pdf)
+- **Our Project Report as .pdf File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582_Project_Report_DerinTemeltas_ZelinaGenel.pdf)
 - **Our Project Code as .ipynb File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582_Project_Code_DerinTemeltas_ZelinaGenel.ipynb)
 - **Our Project Code as .html File**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/blob/main/PROJECT/IE582_Project_Code_DerinTemeltas_ZelinaGenel.html)
+- **Our full Project Directory**: [Click here to view](https://github.com/BU-IE-582/fall-24-derincagantemeltas/tree/main/PROJECT)
 
 **IE 582 HOMEWORK 2 ASSIGNMENT**
 
